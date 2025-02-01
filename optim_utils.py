@@ -55,7 +55,7 @@ def prompt_augmentation(prompt, aug_style, tokenizer=None, repeat_num=4):
     return prompt
 
 
-def get_dataset(dataset_name, pipe=None):
+def get_dataset(dataset_name, pipe=None, max_num_samples=None):
     if "jsonl" in dataset_name:
         dataset = load_jsonlines(dataset_name)
         prompt_key = "caption"
@@ -77,6 +77,15 @@ def get_dataset(dataset_name, pipe=None):
         images_path_train = "/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0"
         df['path'] = df['path'].apply(lambda x: os.path.join(images_path_train, x))
         prompt_key = "text"
+
+        if(max_num_samples is not None):
+            df = df.sample(max_num_samples).reset_index(drop=True)
+        
+        # Create a subset of the dataset consisting of unique "text" values
+        print("Creating a subset of the dataset consisting of unique 'text' values")
+        df = df.drop_duplicates(subset=['text']).reset_index(drop=True)
+
+        print("Dataset size: ", len(df))
         dataset = MimicCXRPromptsDataset(df)
     else:
         raise NotImplementedError

@@ -14,34 +14,33 @@ def main(args):
     # load diffusion model
     device = "cuda" if torch.cuda.is_available() else "cpu"
 
-    # if args.unet_id is not None:
-    #     unet = UNet2DConditionModel.from_pretrained(
-    #         args.unet_id, torch_dtype=torch.float16
-    #     )
-    #     pipe = LocalStableDiffusionPipeline.from_pretrained(
-    #         args.model_id,
-    #         unet=unet,
-    #         torch_dtype=torch.float16,
-    #         safety_checker=None,
-    #         requires_safety_checker=False,
-    #     )
-    # else:
-    #     pipe = LocalStableDiffusionPipeline.from_pretrained(
-    #         args.model_id,
-    #         torch_dtype=torch.float16,
-    #         safety_checker=None,
-    #         requires_safety_checker=False,
-    #     )
-    # pipe.scheduler = DDIMScheduler.from_config(pipe.scheduler.config)
-    # pipe = pipe.to(device)
+    if args.unet_id is not None:
+        unet = UNet2DConditionModel.from_pretrained(
+            args.unet_id, torch_dtype=torch.float16
+        )
+        pipe = LocalStableDiffusionPipeline.from_pretrained(
+            args.model_id,
+            unet=unet,
+            torch_dtype=torch.float16,
+            safety_checker=None,
+            requires_safety_checker=False,
+        )
+    else:
+        pipe = LocalStableDiffusionPipeline.from_pretrained(
+            args.model_id,
+            torch_dtype=torch.float16,
+            safety_checker=None,
+            requires_safety_checker=False,
+        )
+    pipe.scheduler = DDIMScheduler.from_config(pipe.scheduler.config)
+    pipe = pipe.to(device)
 
     # # dataset
     # set_random_seed(args.gen_seed)
-    dataset, prompt_key = get_dataset(args.dataset, pipe=None)
+    dataset, prompt_key = get_dataset(args.dataset, pipe=None, max_num_samples=args.max_num_samples)
 
-    import pdb; pdb.set_trace()
-
-    args.end = min(args.end, len(dataset))
+    # args.end = min(args.end, len(dataset))
+    args.end = len(dataset)
 
     # generation
     print("generation")
@@ -52,7 +51,8 @@ def main(args):
     for i in tqdm(range(args.start, args.end)):
         seed = i + args.gen_seed
 
-        prompt = dataset[i][prompt_key]
+        prompt = dataset[i]
+        print("Prompt: ", prompt)
 
         ### generation
         set_random_seed(seed)
@@ -77,6 +77,7 @@ def main(args):
         curr_line["prompt"] = prompt
 
         all_tracks.append(curr_line)
+        print("\n")
 
     os.makedirs("det_outputs", exist_ok=True)
     write_jsonlines(all_tracks, f"det_outputs/{args.run_name}.jsonl")
@@ -87,8 +88,8 @@ if __name__ == "__main__":
     parser.add_argument("--run_name", default="test")
     parser.add_argument("--dataset", default='mimic')
     parser.add_argument("--start", default=0, type=int)
-    parser.add_argument("--end", default=500, type=int)
-    parser.add_argument("--image_length", default=512, type=int)
+    parser.add_argument("--end", default=None, type=int)
+    parser.add_argument("--image_length", default=224, type=int)
     parser.add_argument("--model_id", default="CompVis/stable-diffusion-v1-4")
     parser.add_argument("--unet_id", default=None)
     parser.add_argument("--with_tracking", action="store_true")
@@ -96,6 +97,7 @@ if __name__ == "__main__":
     parser.add_argument("--guidance_scale", default=7.5, type=float)
     parser.add_argument("--num_inference_steps", default=50, type=int)
     parser.add_argument("--gen_seed", default=0, type=int)
+    parser.add_argument("--max_num_samples", default=None, type=int)
 
     args = parser.parse_args()
 
