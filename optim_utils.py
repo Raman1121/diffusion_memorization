@@ -2,7 +2,7 @@ import torch
 
 import random
 import numpy as np
-
+import pandas as pd
 import matplotlib as m
 
 m.use("Agg")
@@ -16,6 +16,7 @@ import datasets
 from datasets import load_dataset, Dataset
 
 from io_utils import *
+from mimic_cxr_dataset import MimicCXRPromptsDataset
 
 
 def set_random_seed(seed=0):
@@ -71,6 +72,12 @@ def get_dataset(dataset_name, pipe=None):
     elif dataset_name == "Gustavosta/Stable-Diffusion-Prompts":
         dataset = load_dataset(dataset_name)["test"]
         prompt_key = "Prompt"
+    elif dataset_name == "mimic":
+        df = pd.read_excel("/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/Prepared_CSVs/FINAL_TRAIN.xlsx")
+        images_path_train = "/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0"
+        df['path'] = df['path'].apply(lambda x: os.path.join(images_path_train, x))
+        prompt_key = "text"
+        dataset = MimicCXRPromptsDataset(df)
     else:
         raise NotImplementedError
 

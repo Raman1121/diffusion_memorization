@@ -14,30 +14,32 @@ def main(args):
     # load diffusion model
     device = "cuda" if torch.cuda.is_available() else "cpu"
 
-    if args.unet_id is not None:
-        unet = UNet2DConditionModel.from_pretrained(
-            args.unet_id, torch_dtype=torch.float16
-        )
-        pipe = LocalStableDiffusionPipeline.from_pretrained(
-            args.model_id,
-            unet=unet,
-            torch_dtype=torch.float16,
-            safety_checker=None,
-            requires_safety_checker=False,
-        )
-    else:
-        pipe = LocalStableDiffusionPipeline.from_pretrained(
-            args.model_id,
-            torch_dtype=torch.float16,
-            safety_checker=None,
-            requires_safety_checker=False,
-        )
-    pipe.scheduler = DDIMScheduler.from_config(pipe.scheduler.config)
-    pipe = pipe.to(device)
+    # if args.unet_id is not None:
+    #     unet = UNet2DConditionModel.from_pretrained(
+    #         args.unet_id, torch_dtype=torch.float16
+    #     )
+    #     pipe = LocalStableDiffusionPipeline.from_pretrained(
+    #         args.model_id,
+    #         unet=unet,
+    #         torch_dtype=torch.float16,
+    #         safety_checker=None,
+    #         requires_safety_checker=False,
+    #     )
+    # else:
+    #     pipe = LocalStableDiffusionPipeline.from_pretrained(
+    #         args.model_id,
+    #         torch_dtype=torch.float16,
+    #         safety_checker=None,
+    #         requires_safety_checker=False,
+    #     )
+    # pipe.scheduler = DDIMScheduler.from_config(pipe.scheduler.config)
+    # pipe = pipe.to(device)
 
-    # dataset
-    set_random_seed(args.gen_seed)
-    dataset, prompt_key = get_dataset(args.dataset, pipe)
+    # # dataset
+    # set_random_seed(args.gen_seed)
+    dataset, prompt_key = get_dataset(args.dataset, pipe=None)
+
+    import pdb; pdb.set_trace()
 
     args.end = min(args.end, len(dataset))
 
@@ -83,7 +85,7 @@ def main(args):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="diffusion memorization")
     parser.add_argument("--run_name", default="test")
-    parser.add_argument("--dataset", default=None)
+    parser.add_argument("--dataset", default='mimic')
     parser.add_argument("--start", default=0, type=int)
     parser.add_argument("--end", default=500, type=int)
     parser.add_argument("--image_length", default=512, type=int)
