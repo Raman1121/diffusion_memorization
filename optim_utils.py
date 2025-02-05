@@ -55,7 +55,7 @@ def prompt_augmentation(prompt, aug_style, tokenizer=None, repeat_num=4):
     return prompt
 
 
-def get_dataset(dataset_name, pipe=None, max_num_samples=None):
+def get_dataset(dataset_name, pipe=None, max_num_samples=None, shard=None):
     if "jsonl" in dataset_name:
         dataset = load_jsonlines(dataset_name)
         prompt_key = "caption"
@@ -77,6 +77,12 @@ def get_dataset(dataset_name, pipe=None, max_num_samples=None):
         images_path_train = "/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0"
         df['path'] = df['path'].apply(lambda x: os.path.join(images_path_train, x))
         prompt_key = "text"
+
+        # Divide the dataframe into 4 shards
+        if(shard is not None):
+            print("Selected shard: ", shard)
+            all_shards = np.array_split(df, 4)
+            df = all_shards[shard].reset_index(drop=True)
 
         if(max_num_samples is not None):
             df = df.sample(max_num_samples).reset_index(drop=True)

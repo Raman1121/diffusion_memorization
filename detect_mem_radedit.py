@@ -1,3 +1,39 @@
+'''
+This is functional with the following packages:
+
+diffusers==0.18.2
+
+INTRUCTIONS:
+In the file, /raid/s2198939/miniconda3/envs/demm2/lib/python3.10/site-packages/diffusers/__init__.py,
+    comment out:
+        from .pipelines import (
+        AudioPipelineOutput,
+        # ConsistencyModelPipeline,
+        # DanceDiffusionPipeline,
+        ...
+        )
+In the file, /raid/s2198939/miniconda3/envs/demm2/lib/python3.10/site-packages/diffusers/pipelines/pipeline_utils.py,
+    comment out:
+    # from transformers.utils import SAFE_WEIGHTS_NAME as TRANSFORMERS_SAFE_WEIGHTS_NAME
+
+In the file, /raid/s2198939/miniconda3/envs/demm2/lib/python3.10/site-packages/diffusers/pipelines/__init__.py,
+    comment out:
+    # from .consistency_models import ConsistencyModelPipeline
+    # from .dance_diffusion import DanceDiffusionPipeline
+
+In the file, /raid/s2198939/miniconda3/envs/demm2/lib/python3.10/site-packages/diffusers/pipelines/consistency_models/__init__.py
+    comment out:
+    # from .pipeline_consistency_models import ConsistencyModelPipeline
+
+transformers==4.48.2
+accelerate==0.21.0
+datasets=2.19.0
+torch==2.5.1+cu124
+torchvision==0.20.1+cu124
+
+'''
+
+
 import argparse
 from tqdm import tqdm
 
@@ -7,32 +43,53 @@ from optim_utils import *
 from io_utils import *
 
 from local_sd_pipeline import LocalStableDiffusionPipeline
-from diffusers import DDIMScheduler, UNet2DConditionModel
-
+from diffusers import DDIMScheduler, UNet2DConditionModel, StableDiffusionPipeline, AutoencoderKL
+from transformers import AutoModel, AutoTokenizer
 
 def main(args):
     # load diffusion model
     device = "cuda" if torch.cuda.is_available() else "cpu"
 
-    if args.unet_id is not None:
-        unet = UNet2DConditionModel.from_pretrained(
-            args.unet_id, torch_dtype=torch.float16
-        )
-        pipe = LocalStableDiffusionPipeline.from_pretrained(
-            args.model_id,
-            unet=unet,
-            torch_dtype=torch.float16,
-            safety_checker=None,
-            requires_safety_checker=False,
-        )
-    else:
-        pipe = LocalStableDiffusionPipeline.from_pretrained(
-            args.model_id,
-            torch_dtype=torch.float16,
-            safety_checker=None,
-            requires_safety_checker=False,
-        )
-    pipe.scheduler = DDIMScheduler.from_config(pipe.scheduler.config)
+    # Load the components for RadEdit pipeline
+
+    # 1. UNet
+    unet = UNet2DConditionModel.from_pretrained("microsoft/radedit", subfolder="unet")
+
+    # 2. VAE
+    vae = AutoencoderKL.from_pretrained("stabilityai/sdxl-vae")
+
+    # 3. Text encoder and tokenizer
+    text_encoder = AutoModel.from_pretrained(
+        "microsoft/BiomedVLP-BioViL-T",
+        trust_remote_code=True,
+    )
+    tokenizer = AutoTokenizer.from_pretrained(
+        "microsoft/BiomedVLP-BioViL-T",
+        model_max_length=128,
+        trust_remote_code=True,
+    )
+
+    # 4. Scheduler
+    scheduler = DDIMScheduler(
+        beta_schedule="linear",
+        clip_sample=False,
+        prediction_type="epsilon",
+        timestep_spacing="trailing",
+        steps_offset=1,
+    )
+
+    # 5. Pipeline
+    pipe = LocalStableDiffusionPipeline(
+        vae=vae,
+        text_encoder=text_encoder,
+        tokenizer=tokenizer,
+        unet=unet,
+        scheduler=scheduler,
+        safety_checker=None,
+        requires_safety_checker=False,
+        feature_extractor=None,
+    )
+
     pipe = pipe.to(device)
 
     # # dataset
@@ -82,9 +139,8 @@ def main(args):
         all_tracks.append(curr_line)
         print("\n")
 
-    os.makedirs("det_outputs", exist_ok=True)
-    # write_jsonlines(all_tracks, f"det_outputs/{args.run_name}.jsonl")
-    write_jsonlines(all_tracks, f"det_outputs/shard_{args.shard}.jsonl")
+    os.makedirs("det_outputs_radedit", exist_ok=True)
+    write_jsonlines(all_tracks, f"det_outputs_radedit/shard_{args.shard}.jsonl")
 
 
 if __name__ == "__main__":
