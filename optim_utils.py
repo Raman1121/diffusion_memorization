@@ -55,7 +55,8 @@ def prompt_augmentation(prompt, aug_style, tokenizer=None, repeat_num=4):
     return prompt
 
 
-def get_dataset(dataset_name, pipe=None, max_num_samples=None, shard=None):
+def get_dataset(dataset_name, pipe=None, max_num_samples=None, num_shards=None, shard=None):
+    assert num_shards is not None
     if "jsonl" in dataset_name:
         dataset = load_jsonlines(dataset_name)
         prompt_key = "caption"
@@ -81,7 +82,7 @@ def get_dataset(dataset_name, pipe=None, max_num_samples=None, shard=None):
         # Divide the dataframe into 4 shards
         if(shard is not None):
             print("Selected shard: ", shard)
-            all_shards = np.array_split(df, 4)
+            all_shards = np.array_split(df, num_shards)
             df = all_shards[shard].reset_index(drop=True)
 
         if(max_num_samples is not None):

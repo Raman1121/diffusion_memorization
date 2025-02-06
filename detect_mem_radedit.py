@@ -94,7 +94,12 @@ def main(args):
 
     # # dataset
     # set_random_seed(args.gen_seed)
-    dataset, prompt_key = get_dataset(args.dataset, pipe=None, max_num_samples=args.max_num_samples, shard=args.shard)
+    dataset, prompt_key = get_dataset(args.dataset, 
+                                      pipe=None, 
+                                      max_num_samples=args.max_num_samples, 
+                                      num_shards=args.num_shards, 
+                                      shard=args.shard
+                                      )
 
     # args.end = min(args.end, len(dataset))
     args.end = len(dataset)
@@ -139,8 +144,11 @@ def main(args):
         all_tracks.append(curr_line)
         print("\n")
 
-    os.makedirs("det_outputs_radedit", exist_ok=True)
-    write_jsonlines(all_tracks, f"det_outputs_radedit/shard_{args.shard}.jsonl")
+    try:
+        os.makedirs("det_outputs_radedit", exist_ok=True)
+        write_jsonlines(all_tracks, f"det_outputs_radedit/shard_{args.shard}.jsonl")
+    except:
+        import pdb; pdb.set_trace() 
 
 
 if __name__ == "__main__":
@@ -159,6 +167,8 @@ if __name__ == "__main__":
     parser.add_argument("--gen_seed", default=0, type=int)
     parser.add_argument("--max_num_samples", default=None, type=int)
     parser.add_argument("--shard", default=None, type=int)
+    parser.add_argument("--num_shards", default=4, type=int)
+
 
     args = parser.parse_args()
 
