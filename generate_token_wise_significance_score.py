@@ -1,7 +1,6 @@
 import torch
 import torchvision
-import torchvision.transforms as transforms
-import matplotlib.pyplot as plt
+import torchvision.transforms as transformsdd
 import mediapy as media
 import numpy as np
 from diffusers import DDIMScheduler
