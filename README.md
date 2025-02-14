@@ -1,5 +1,5 @@
 # The Devil is in the Prompts: De-Identification Traces Enhance Memorization Risks in Synthetic Chest X-Ray Generation
-Official repo for [The Devil is in the Prompts: De-Identification Traces Enhance Memorization Risks in Synthetic Chest X-Ray Generation](https://arxiv.org/abs/2502.07516).
+<!-- Official repo for [The Devil is in the Prompts: De-Identification Traces Enhance Memorization Risks in Synthetic Chest X-Ray Generation](https://arxiv.org/abs/2502.07516). -->
 
 ## Core Dependencies
 - PyTorch==2.5.1
@@ -50,7 +50,7 @@ python detect_mem_radedit.py --run_name memorized_prompts --dataset mimic --num_
 
 For even faster computation, you can increase ```--num_shards```.
 
-## Cite our work
+<!-- ## Cite our work
 If you find this work useful, please cite our paper:
 
 ```bibtex
@@ -60,4 +60,4 @@ If you find this work useful, please cite our paper:
   journal={arXiv preprint arXiv:2502.07516},
   year={2025}
 }
-```
+``` -->
