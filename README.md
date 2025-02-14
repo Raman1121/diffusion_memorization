@@ -29,7 +29,7 @@ python detect_mem.py --model_id <pretrained_model_name_or_path> --dataset mimic
 
 ### Using the RadEdit Model
 
-***NOTE:*** First, follow the instructions in the ```Setup-RadEdit.md``` file.  
+***NOTE:*** First, follow the instructions in the [Setup-RadEdit.md](Setup-RadEdit.md) file.  
 
 The following command will run memorization detection on the whole dataset.
 
