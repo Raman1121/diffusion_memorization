@@ -14,7 +14,7 @@ conda env create -f env.yaml
 ```
 
 ## Memorized Prompts
-The list of memorized prompts in the MIMIC-CXR dataset will be available here.
+The list of memorized prompts in the MIMIC-CXR dataset will be available [here](https://www.dropbox.com/scl/fi/gh01vcwqljtjw4kiczbi9/memorized_prompts_percentile.csv?rlkey=cz9at24a4ta3ybfoorl7jkde4&st=kkobovzw&dl=0).
 
 ## Detecting Memorization
 
