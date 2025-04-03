@@ -1,0 +1,194 @@
+Real Path,Prompt,reid_scores,Pixel_distance,Latext_distance
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15684891/s55086827/33a08874-d8d12bcf-c8f73b58-f141503a-a9bb9f57.jpg,"Left apical lateral pneumothorax as described above.  Fractures as known.
+ 
+ Non-specific scoliosis of the spine and although I cannot visualize a
+ vertebral body fracture a spinal injury cannot be excluded.  Clinical
+ correlation is advised and if there are referable clinical findings a CT of
+ the thoracic spine is advised.",0.0,153.2988,0.7236199999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15684891/s55086827/33a08874-d8d12bcf-c8f73b58-f141503a-a9bb9f57.jpg,"Left apical lateral pneumothorax as described above.  Fractures as known.
+ 
+ Non-specific scoliosis of the spine and although I cannot visualize a
+ vertebral body fracture a spinal injury cannot be excluded.  Clinical
+ correlation is advised and if there are referable clinical findings a CT of
+ the thoracic spine is advised.",0.0,153.2988,0.7236199999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15684891/s55984603/8ae5584e-114e8997-13564183-7eb31172-453d9434.jpg,"Interval placement of left pigtail chest tube.  Slight worsening of left
+ apical pneumothorax.  Stable appearance of known left fractures.",0.09331999999999999,138.4301,0.57657
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15712636/s54719765/09e9bb90-74f22b58-1d5c97f4-4e5056a0-4a944b92.jpg,"There is a right-sided chest tube whose distal tip is at the right base. There
+ is a persistent right sided apical pneumothorax which is small to moderate in
+ size and relatively stable. There are areas of consolidation throughout both
+ lung fields most prominent at the lung bases.  Heart size is within normal
+ limits.",0.56305,136.4277,0.59561
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15723516/s56313861/0e77b7c8-1f01494a-0cb6b1c6-63615a10-9ce7123d.jpg,"As compared to ___ radiograph, intra-aortic balloon pump has been
+ advanced, now terminating 1.3 cm below the aortic knob.  The appearance of the
+ chest is otherwise similar to the prior radiograph.",0.5828300000000002,139.90339999999998,0.58458
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15727720/s53070022/cb226458-0464d6c5-4cdd137f-c69884cd-110b86bf.jpg,"AP chest compared to ___ through ___:
+ 
+ Consolidation at the base of the right lung has intensified since ___
+ consistent with worsening pneumonia and/or recurrent aspiration. 
+ Hyperinflation reflects COPD.  Heart size normal.  Feeding tube loops in a
+ non-distended stomach.  Normal cardiomediastinal silhouette.  No pneumothorax.",0.27016999999999997,141.58899999999997,0.5784199999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15729033/s52272812/7c794d9d-612451fe-46229b95-4ca5d36d-343735bd.jpg,"1.  Persistent left apical pneumothorax without evidence of tension.
+ 
+ 2.  Multiple left rib fractures.",0.00023,155.9014,0.6509199999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15793456/s58666598/e42b4605-f902c4ae-7379b10b-bb8897a0-0a74f22a.jpg,"In comparison with the study of ___, there is again substantial
+ hyperexpansion of the lungs consistent with chronic pulmonary disease.  There
+ is increased prominence of the hila, which appears to represent vascular
+ structures and raises the possibility of pulmonary artery hypertension.
+ No evidence of acute pneumonia or vascular congestion.",0.0,143.35280000000003,0.56142
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15866889/s57502473/dd455da2-60831057-49800951-97805f35-93716e76.jpg,"1.  Balloon pump ends about 1.6 cm from the roof of the aortic arch and could
+ be withdrawn slightly.
+ 2.  New small bilateral pleural effusions.
+ 3.  Stable moderate pulmonary edema, worse on the right than the left.
+ 
+ Results were discussed with ___ at 11:20 am on ___ via telephone
+ by Dr. ___.",0.6912200000000001,154.1494,0.53917
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15902493/s52040420/4cceece9-8400f980-a48fb232-e92e5441-6745b601.jpg,"1.  After repositioning of the feeding tube, it extends into the stomach;
+ however, the distal end is off the radiographic view.
+ 
+ 2.  Bibasal atelectasis is similar.  No other relevant changes.",0.00224,149.31369999999998,0.5666000000000001
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15910090/s54931563/ee8ba975-b8d83c26-1414baf6-06ba7c52-ba72b27a.jpg,"As compared to the previous radiograph, the left chest tube is in unchanged
+ position.  No evidence for the presence of a pneumothorax.  No pleural
+ effusion. Unchanged moderate scoliosis of the thoracic spine, causing
+ asymmetry of the ribcage. Normal size of the cardiac silhouette.  No
+ abnormalities in the right hemi thorax.",0.029359999999999997,138.93509999999998,0.6605399999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15964158/s55130022/66078505-ec85a299-8d62ff72-5a11fad4-beab887e.jpg,"Large right pneumothorax with near complete collapse of the right
+ middle and right lower lobes.  Small right hemothorax also present.  Right rib
+ fractures with extensive chest wall emphysema.",0.00814,144.8794,0.6436
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15989123/s50872671/e46150db-b9e3a350-2c79a06d-1db35709-a84e183a.jpg,"1.  Right apical pneumothorax is minimally smaller.  Stable pneumomediastinum
+ and subcutaneous air.
+ 
+ 2.  New New lingular opacification which may represent atelectasis. Concurrent
+ infectious process must be excluded in the proper clinical setting. 
+ 
+ 3.  Increased right middle lobe partial collapse.",0.00234,145.95689999999996,0.69348
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15989123/s55482625/cdbf5a13-cede41de-5aef6e4c-53925627-6be289e4.jpg,"1.  Persistent small right apical pneumothorax.
+ 2.  Extensive subcutaneous emphysema and pneumomediastinum, similar to prior
+ studies.",0.0,143.1623,0.6184200000000001
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16033427/s50619450/1eabb0d4-704204e8-87b65fb9-39bda569-f2f1afcf.jpg,"No notable change compared to ___. Small to moderate right pneumothorax
+ is stable. Persistent right lower lobe collapse.",7.999999999999999e-05,130.3525,0.6871799999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16033427/s50619450/1eabb0d4-704204e8-87b65fb9-39bda569-f2f1afcf.jpg,"No notable change compared to ___. Small to moderate right pneumothorax
+ is stable. Persistent right lower lobe collapse.",7.999999999999999e-05,130.3525,0.6871799999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16033427/s58364627/082a29f1-3709b739-3413ee68-6cbefbbd-35482a46.jpg,"1. Moderate right pneumothorax with partial collapse of the right lower lobe.
+ No signs of tension. Recommend chest tube placement.
+ 2. Large hiatal hernia.
+ 3. Severe emphysema.",0.01452,145.4973,0.6124599999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16033427/s58364627/082a29f1-3709b739-3413ee68-6cbefbbd-35482a46.jpg,"1. Moderate right pneumothorax with partial collapse of the right lower lobe.
+ No signs of tension. Recommend chest tube placement.
+ 2. Large hiatal hernia.
+ 3. Severe emphysema.",0.01452,145.4973,0.6124599999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16033427/s58656248/2c815570-2ef87670-84ec3e73-b02747e0-a9090cb4.jpg,"As compared to previous radiograph of 1 day earlier, a moderate sized right
+ pneumothorax with apical lateral and basilar components demonstrates slight
+ increase in basilar component. Right pigtail pleural catheter remains in
+ place. Substantial collapse of the adjacent right lower lobe persists.",0.0932,135.566,0.58507
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16040458/s59459246/d28a2991-578787d9-22a23ec6-8a978b75-7cde7e07.jpg,"1. Right basilar pneumonia does not appear significantly changed.
+ 2. Multiple foci of metastatic disease are again seen in the bones.",0.24305,146.71970000000002,0.62334
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16040458/s59979270/0f21000d-496a112c-3e8dbeca-026a232d-2355b44f.jpg,"Continued decreased in right basilar opacity; otherwise no definite change. 
+ Dense skeletal metastases are a background finding which may obscure the lung
+ parenchyma, however, to some extent.",0.49156000000000005,149.7618,0.6315999999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16040458/s59979270/0f21000d-496a112c-3e8dbeca-026a232d-2355b44f.jpg,"Continued decreased in right basilar opacity; otherwise no definite change. 
+ Dense skeletal metastases are a background finding which may obscure the lung
+ parenchyma, however, to some extent.",0.49156000000000005,149.7618,0.6315999999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16092597/s51015090/b5b3e88f-43cd7f89-0cf52c45-5e84ef67-7b0852ad.jpg,"Of the repositioning of a left pigtail catheter, the size of the known left
+ pneumothorax has again increased and evidence of tension with depression of
+ the left hemidiaphragm and mediastinal shift to the right is again noted.  The
+ signs indicative of right pneumothorax as well as pneumomediastinum are
+ unchanged.",0.02989,152.44080000000002,0.61958
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16092597/s51015090/b5b3e88f-43cd7f89-0cf52c45-5e84ef67-7b0852ad.jpg,"Of the repositioning of a left pigtail catheter, the size of the known left
+ pneumothorax has again increased and evidence of tension with depression of
+ the left hemidiaphragm and mediastinal shift to the right is again noted.  The
+ signs indicative of right pneumothorax as well as pneumomediastinum are
+ unchanged.",0.02989,152.44080000000002,0.61958
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16092597/s52011486/1bacac25-d69361e6-f5439f15-fae2f297-80550909.jpg,"No appreciable left pneumothorax.  Apical pleural drain still in place. 
+ Extensive bilateral pneumonia has probably improved since ___, unchanged
+ since earlier in the day.  Heart size normal.  ET tube, right subclavian
+ catheter, and esophageal drainage tube in standard placements respectively.",0.67826,130.72409999999996,0.51581
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16092597/s52942443/459785b9-1820e1b6-7f3df9b1-2dfc8c96-4a98af87.jpg,"As compared to the previous image, there is a minimal decrease in extent of
+ the left pneumothorax.  The signs of tension have also decreased.  The left
+ pigtail catheter remains in unchanged position.  Unchanged size of the known
+ right pneumothorax and the pneumomediastinum.  Unchanged monitoring and
+ support devices.",0.39153999999999994,147.27880000000002,0.49155
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16092597/s55258172/8448e8bb-acccbdd7-eafea9ea-10968bb8-83d44ad0.jpg,"1.  Unchanged appearance of right and left chest tubes within the pleural
+ space.
+ 2.  Unchanged left pneumothorax with evidence of tension.
+ 3.  Appropriate positioning of ET tube, right subclavian, and NG tube.",0.34348,134.90550000000002,0.48613
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16092597/s55258172/8448e8bb-acccbdd7-eafea9ea-10968bb8-83d44ad0.jpg,"1.  Unchanged appearance of right and left chest tubes within the pleural
+ space.
+ 2.  Unchanged left pneumothorax with evidence of tension.
+ 3.  Appropriate positioning of ET tube, right subclavian, and NG tube.",0.34348,134.90550000000002,0.48613
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16092597/s55416420/5f6fbc7c-92388ea5-a6c333ce-04591023-73a19713.jpg,"1. Right chest tube, left pigtail, NG tube, right subclavian, and NG tube all
+ in appropriate positioning.
+ 2. Persistent left tension pneumothorax, which has not decreased in size. 
+ Small right apical pneumothorax.
+ 3. Developing patchy opacification at right heart border concerning for
+ developing pneumonia",0.22303999999999996,145.02939999999998,0.47890000000000005
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16092597/s55830764/329156ee-7db4dafd-28eeff49-7a282b53-69642023.jpg,"Right PICC line tip is at the level of lower SVC.  ET tube tip is 6 cm above
+ the carinal.  Left chest tube is in place.  No definitive pneumothorax is
+ seen.  Multifocal consolidations in the mid and lower lungs are unchanged. 
+ Subcutaneous air within the left chest wall has decreased.",0.39731,151.7064,0.6027999999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16092597/s57639602/11161c4f-fb5b9a06-ef4032a1-26ecedfc-12832998.jpg,"Considering technical differences and patient positioning, persistent
+ bilateral pneumothoraces and pneumomediastinum are stable in appearance.
+ 
+ Multifocal airspace opacities in the lower lobe have developed since trauma on
+ ___, suggestive of aspiration pneumonia or infection.",0.12632,156.2265,0.5000199999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16092597/s57639602/11161c4f-fb5b9a06-ef4032a1-26ecedfc-12832998.jpg,"Considering technical differences and patient positioning, persistent
+ bilateral pneumothoraces and pneumomediastinum are stable in appearance.
+ 
+ Multifocal airspace opacities in the lower lobe have developed since trauma on
+ ___, suggestive of aspiration pneumonia or infection.",0.12632,156.2265,0.5000199999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16092597/s58244715/c996657c-15468014-17f21c25-ece1ee74-04027faf.jpg,"As compared to the previous image, the left pneumothorax has moderately
+ decreased.  The left lung is better ventilated.  On the right, the apical
+ lateral pneumothorax shows unchanged extent.  Unchanged pneumomediastinum. 
+ The monitoring and support devices are constant.",0.10381,154.21399999999997,0.5523
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16092597/s58244715/c996657c-15468014-17f21c25-ece1ee74-04027faf.jpg,"As compared to the previous image, the left pneumothorax has moderately
+ decreased.  The left lung is better ventilated.  On the right, the apical
+ lateral pneumothorax shows unchanged extent.  Unchanged pneumomediastinum. 
+ The monitoring and support devices are constant.",0.10381,154.21399999999997,0.5523
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16092597/s59093707/5f0c9e57-8410a1cd-a6c0b465-05f86928-27f5e34f.jpg,"Bilateral apical pneumothoraces have increased, no evidence of tension. 
+ Increasing small amount of pneumomediastinum.",0.36991999999999997,140.713,0.59831
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16093185/s57181193/d7158304-ea1501d8-190019c7-12d1d794-add522b9.jpg,"Extensive pulmonary metastatic disease without signs of superimposed acute
+ process.  Osseous metastasis again seen.  Port-A-Cath tip in the right atrium.",0.49015000000000003,150.5515,0.73463
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16094282/s52575774/7ee80efe-423fe0cf-f87f04b7-56b4f5e7-520bf9bf.jpg,"1.  Interval placement of a right chest tube with persistent moderate size
+ pneumothorax.
+ 2.  Right rib fractures are better assessed on the dedicated rib series from
+ the same day.",0.0,149.89519999999996,0.68035
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16094282/s59213327/eabcd702-04e7b127-ec8a6158-cc398f20-dc177dc6.jpg,"Small right apical pneumothorax is stable since the prior study.
+ 
+ Multiple right-sided rib fractures are better assessed on the prior study
+ which included the rib series.",0.30884,145.37030000000001,0.6369800000000001
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16094899/s56220212/cc42975e-948403f3-f2e1c047-039e030f-73f7a8dd.jpg,"In comparison with the study ___ ___, there has been a thoracentesis
+ performed on the left with a small amount of residual if fusion. No evidence
+ of post procedure pneumothorax.  Otherwise, little change.  Diffuse sclerosis
+ of visualized bony structures is consistent with the known widespread
+ metastatic prostate cancer.",0.0,142.4573,0.63166
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16108033/s58951184/40030f35-2cd825e4-1ac483fe-847f4cac-e8d2dbb9.jpg,Large right-sided pneumothorax with mild leftward mediastinal shift.,0.11918999999999999,149.73769999999996,0.6612600000000001
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16121000/s58934840/662c8d1c-d593e824-73e8fa03-37df4e0a-04fca8e2.jpg,"As compared to the previous radiograph, there is a minimal decrease in extent
+ of the pre-existing right pneumothorax.  No evidence of tension.  Unchanged
+ borderline size of the cardiac silhouette.  The pre-existing parenchymal
+ opacities at the lung bases are resolving an less severe than on the previous
+ examination.",0.22024,148.29590000000002,0.5692600000000001
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16121000/s58934840/662c8d1c-d593e824-73e8fa03-37df4e0a-04fca8e2.jpg,"As compared to the previous radiograph, there is a minimal decrease in extent
+ of the pre-existing right pneumothorax.  No evidence of tension.  Unchanged
+ borderline size of the cardiac silhouette.  The pre-existing parenchymal
+ opacities at the lung bases are resolving an less severe than on the previous
+ examination.",0.22024,148.29590000000002,0.5692600000000001
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16146145/s54787354/48fc6818-be0ce043-ec50ed95-46035e00-e3609d2e.jpg,"In comparison with the study of earlier in this date, there is decreased
+ opacification at the right base, presumably related to the thoracentesis. 
+ There is a small apical pneumothorax.  Remainder of the study is essentially
+ unchanged with continued diffuse sclerotic osseous metastases.",0.00014,150.52829999999997,0.6381600000000001
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16151261/s56544804/049195af-12690fcc-b7694e51-8f86d9dc-9ceaf06f.jpg,"Lungs are obscured by thermal blanket.  Left lower lobe collapse is unchanged
+ since at least ___.  Right lung is clear.  Pleural effusions are small
+ if any.  Heart size normal.  Tracheostomy tube in standard placement.  Left
+ PIC line ends in the low SVC.",0.01767,131.01199999999997,0.60848
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16151261/s58286772/ed03f6bd-547cd5f9-01e9ecb4-aeb2281d-93e9409d.jpg,"Persistent left lower lobe collapse has not resolved since ___.  Right
+ lung and left upper lobe are clear.  Pleural effusion is small if any.  Heart
+ size and mediastinum are normal.
+ 
+ Tracheostomy tube midline.  Left PIC line ends close to the superior
+ cavoatrial junction.  No pneumothorax.",0.039290000000000005,134.1304,0.5759599999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16151261/s59340274/f9cc301f-23155d72-c16bd481-23265384-f968a280.jpg,"Dense consolidation and volume loss in the left lower lobe removed present for
+ several days consistent with collapse suggesting bronchial occlusion.  Lungs
+ are otherwise clear.  Pleural effusion small on the left if any.  Tracheostomy
+ tube in standard position.  Left PIC line ends close to the superior
+ cavoatrial junction.  No pneumothorax.",0.24195000000000003,139.173,0.57691
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16204536/s56270723/8e33ace1-067d97ae-76e3ce75-fdc3c191-65de50c5.jpg,"Moderate to large right pneumothorax with mild leftward shift of mediastinal
+ structures concerning for an element of tension.",0.007430000000000001,144.92820000000003,0.6585699999999999

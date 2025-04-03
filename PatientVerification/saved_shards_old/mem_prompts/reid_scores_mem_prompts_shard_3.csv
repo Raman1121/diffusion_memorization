@@ -1,0 +1,202 @@
+Real Path,Prompt,reid_scores,Pixel_distance,Latext_distance
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p13/p13954133/s50178046/28cfd0e5-1fc554b0-da5b269e-99ecfd4b-1e158afb.jpg,"Large right pneumothorax with mild shift of the mediastinum to the left,
+ similar to the film obtained on ___ at 15:15.
+ 
+ Left-sided pulmonary nodule noted.  Please see comment above.",0.17378,143.90900000000002,0.63493
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p14/p14180468/s56305947/64e7101d-12c15949-47fabfa9-ad9493d6-0ae88064.jpg,"1. Persistent moderate right pneumothorax.
+ 2. Slightly improved appearnace of right mid/lower lung contusion and/or
+ aspiration.",0.00037,139.42070000000004,0.57664
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p14/p14190554/s56387459/f116e2ed-ded0618a-31d31f8a-2437940f-d8bd112d.jpg,"1. Interval removal of right-sided chest tube without definite pneumothorax.
+ 2. Increased right basilar opacification may be due to aspiration or possibly
+ pulmonary contusion.
+ 3. New distension of what appears to be te stomach.",0.07404999999999999,152.9275,0.68295
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p14/p14324214/s53375851/d5fcbc87-0dc76c3e-a1195d34-07b1edbf-2e170f3f.jpg,"Compared to chest radiographs since ___, most recently ___ at
+ 04:42.
+ 
+ 3 frontal chest radiographs taken in succession repositioning of the
+ transesophageal feeding tube from the right main bronchus",0.26068,141.9999,0.62096
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p14/p14325424/s51695608/25573606-60650e6b-746dd491-482090cf-95a0ed9d.jpg,"1.  Interval placement of left chest tube.  Appreciably increase in left
+ pneumothorax, still not more than moderate.
+ 2.  Right PICC ends in the right brachiocephalic vein.
+ 3.  Unchanged right infrahilar opacity.",0.13991,138.3513,0.55301
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p14/p14325424/s59266160/5e5ef9e9-7f169043-5a8a68c0-6c1d66ce-679e185c.jpg,"Large left pneumothorax despite CT.  These findings were called to
+ Dr. ___ at the time of dictating this report by Dr. ___ 9:00 a.m. on
+ ___.",0.03173,155.79469999999998,0.66626
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p14/p14581489/s57310318/eeeb0de3-df87e683-a345856d-357cb03b-7178ece7.jpg,"Since the recent study of earlier the same date, a left pigtail pleural
+ catheter has been placed with slight decrease in size of small left apical
+ pneumothorax. Subcutaneous emphysema in left chest wall is new. No other
+ relevant changes.",0.29688,138.08539999999996,0.64117
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p14/p14622418/s59254550/f08acfe9-d37d2631-dae674e6-d8db8400-e408c789.jpg,"Severe cardiomegaly is chronic, but there is no pulmonary edema and minimal if
+ any upper lobe vascular engorgement or pleural effusion. No pneumothorax. 
+ Swan-Ganz catheter tip is obscured by cardiac motion, but it is probably in
+ the right pulmonary artery.  No pneumothorax.",0.43958,149.5172,0.56294
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p14/p14658826/s52379040/704f0b83-519e7631-8c5dbdea-48d9766c-91ac3d65.jpg,"Large right pneumothorax.
+ 
+ These findings were communicated to Dr. ___ via pager by Dr. ___
+ ___ on ___ at 12:10 p.m., at time of the discovery and were
+ subsequently discussed via telephone at 1:45 PM.",0.060919999999999995,124.52770000000001,0.6798400000000001
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p14/p14691641/s54715950/0340d7ec-28f48179-fd0d5ef5-ccd0f1cf-d57bd0ed.jpg,"In comparison with the study of ___, the Dobhoff tube is in the right
+ main bronchus.  Subsequent study dictated previously shows the tube in good
+ position in the stomach.
+ The chest tubes have been removed and there is a tiny apical pneumothorax on
+ the left.
+ Otherwise little change",0.22586000000000003,147.4384,0.53646
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p14/p14691641/s54715950/0340d7ec-28f48179-fd0d5ef5-ccd0f1cf-d57bd0ed.jpg,"In comparison with the study of ___, the Dobhoff tube is in the right
+ main bronchus.  Subsequent study dictated previously shows the tube in good
+ position in the stomach.
+ The chest tubes have been removed and there is a tiny apical pneumothorax on
+ the left.
+ Otherwise little change",0.22586000000000003,147.4384,0.53646
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p14/p14691641/s54715950/0340d7ec-28f48179-fd0d5ef5-ccd0f1cf-d57bd0ed.jpg,"In comparison with the study of ___, the Dobhoff tube is in the right
+ main bronchus.  Subsequent study dictated previously shows the tube in good
+ position in the stomach.
+ The chest tubes have been removed and there is a tiny apical pneumothorax on
+ the left.
+ Otherwise little change",0.22586000000000003,147.4384,0.53646
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p14/p14707155/s57164513/0c3869e8-8e3ca7a6-2abc7b06-dd78bb1f-48ef08b9.jpg,"The tip of the endotracheal tube projects 7.2 cm from the carina and can be
+ advanced.
+ 
+ The tip of the right internal jugular central venous line projects over the
+ upper SVC.
+ 
+ Known elevation of the left hemidiaphragm with the tip of the feeding tube
+ projecting over the gastric body.",0.00232,141.57549999999998,0.5921799999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p14/p14800685/s50945590/73029dd2-3b9a22d7-7b0db2e5-8889e948-6789ffa9.jpg,"AP chest compared to ___:
+ 
+ Large area of new consolidation at the right lung base medially obscuring the
+ diaphragmatic interface is pneumonia until proved otherwise.  Lungs are
+ otherwise clear.  Heart size normal.  Tracheostomy tube in standard placement.
+ Findings discussed by Dr. ___ with Dr. ___ 8:40 p.m. on ___.",0.42238,139.54379999999998,0.5638000000000001
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p14/p14809981/s56798958/33adfa72-fabe8e1c-932e4c54-fbcd5fdc-ab421b25.jpg,"Right pigtail catheter is in place.  Heart size and mediastinum are unchanged.
+ There is interval decrease in small currently right apical pneumothorax. 
+ Bibasal consolidations have progressed in the interim.",0.11156999999999999,134.0253,0.68598
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p14/p14867461/s54782543/2cec5ed3-ae7251ec-8ea3cdf1-5acdd7e7-81ca50a2.jpg,"The right-sided chest tube is unchanged in position.  There is again seen
+ diffuse subcutaneous emphysema throughout the chest wall.  The tiny right
+ apical pneumothorax mentioned previously is not well seen.  There is
+ atelectasis at the lung bases and likely a small right-sided pleural effusion.",0.0741,141.07989999999998,0.6859900000000001
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p14/p14873729/s52666281/af406ab3-c9e91388-b855b491-58056308-fa942a0b.jpg,"1.  Expected volume loss from prior right upper lobectomy, though no
+ superimposed acute cardiopulmonary process
+ 2.  Enlarged mediastinal contours correspond to known adenopathy",0.0008,163.56089999999998,0.60933
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p14/p14873729/s52666281/af406ab3-c9e91388-b855b491-58056308-fa942a0b.jpg,"1.  Expected volume loss from prior right upper lobectomy, though no
+ superimposed acute cardiopulmonary process
+ 2.  Enlarged mediastinal contours correspond to known adenopathy",0.0008,163.56089999999998,0.60933
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p14/p14919634/s54269548/afe83f10-273dafd8-b94f90af-d001f361-ab8a03e9.jpg,"In comparison to the prior radiograph of 1 day earlier, there is been interval
+ recurrent worsening of partial left lung collapse, probably accompanied by a
+ left pleural effusion.  Bilateral chest tubes remain in place, with persistent
+ very small bilateral pneumothoraces.  Exam is otherwise remarkable for slight
+ improvement in extent of right basilar consolidation.",0.10899,138.9473,0.67335
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15028731/s58808273/0ba6861c-6412b4d8-9fae9d8c-0bd850d0-b9ad4c0d.jpg,"Small persistent right pneumothorax again noted along with
+ extensive subcutaneous air.",0.11469,141.50430000000003,0.6289800000000001
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15050866/s56012076/753f4a98-785257f5-1fb47baa-73e43672-a078d140.jpg,"The moderate right pneumothorax is more prominent than on the previous study
+ and there is a possible left medial pneumothorax without definite mediastinal
+ shift.",0.31738999999999995,140.32770000000002,0.6575599999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15052507/s56563022/dedec299-4d99cc99-bb50ba8e-512d1e6c-8e60a2f3.jpg,"Stable small right pneumothorax apical and basal components, basal pleural
+ tube still place.  Right lower lobe atelectasis worsened. Moderate
+ cardiomegaly stable.  Left pleural effusion is small if any. There is no left
+ pneumothorax, not to be confused by a prominent skin fold.",2e-05,137.5291,0.58036
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15075859/s50515239/8171c679-56355f87-b317d752-1ffbc301-d246f296.jpg,"In comparison with the earlier study of this date, there has been a line
+ exchange on the right with the IJ catheter extending to the mid portion of the
+ SVC.  No evidence of right pneumothorax or other change in the appearance of
+ the heart and lungs.  The left pneumothorax is essentially unchanged.",0.0,161.99800000000002,0.60058
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15107848/s57081157/46bfdb38-864368c2-a317ca88-fecff85e-3259047e.jpg,"Series demonstrating placement of a Dobbhoff tube with final positioning of
+ the tip just below the diaphragm,  in the proximal stomach the appearance of
+ the lungs in this patient with known IPF is not substantially changed. ET tube
+ is 3 cm above the carina.  Right PICC line tip is in the right atrium",0.42667,148.8941,0.41930999999999996
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15107848/s57081157/46bfdb38-864368c2-a317ca88-fecff85e-3259047e.jpg,"Series demonstrating placement of a Dobbhoff tube with final positioning of
+ the tip just below the diaphragm,  in the proximal stomach the appearance of
+ the lungs in this patient with known IPF is not substantially changed. ET tube
+ is 3 cm above the carina.  Right PICC line tip is in the right atrium",0.42667,148.8941,0.41930999999999996
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15152711/s50836472/26d273ae-acb1adcb-7d98efab-cac51309-f17b2eac.jpg,"1. Interval improvement of a right anterior pneumothorax, although right chest
+ wall subcutaneous emphysema is increased.
+ 2. Unchanged left base opacity, again likely representing pulmonary contusion,
+ although superimposed infection cannot be excluded.",0.00462,135.47620000000003,0.6207499999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15152711/s58806956/6611ce58-5d63d123-4f62e978-b3be7bd1-97c80a47.jpg,"No relevant change.  The dimension of the known right apical pneumothorax is
+ constant.  Constant position of the right chest tube, unchanged air inclusions
+ in the soft tissues.  No evidence of tension.  Atelectasis along the minor
+ fissure.  Unchanged appearance of the cardiac silhouette and the left lung.",0.00028,149.55770000000004,0.64104
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15171769/s56954599/97570bef-907b915f-a3fad9db-d91ba0fc-e9e3d11d.jpg,"Interval placement of a left-sided chest tube which terminates in the left
+ axillary soft tissues outside of the thorax.
+ 
+ Interval decreased size of the left pneumothorax, now moderate in size.
+ 
+ New small post-procedural left chest wall subcutaneous emphysema.",0.00891,141.86000000000004,0.65194
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15275976/s56689867/3b4c3e8b-6d9b99ba-898ec5ad-8fd99425-a1190afa.jpg,"1. At least four contiguous displaced right-sided rib fractures.
+ 2. Consolidation vs hemopthorax causing opacity at the right lower lung.
+ CT is recommended for further evaluation.
+ 
+ Findings were discussed with the ___ triage nurse by phone at 3:30 p.m.",0.05006000000000001,156.08469999999997,0.7325599999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15275976/s56689867/3b4c3e8b-6d9b99ba-898ec5ad-8fd99425-a1190afa.jpg,"1. At least four contiguous displaced right-sided rib fractures.
+ 2. Consolidation vs hemopthorax causing opacity at the right lower lung.
+ CT is recommended for further evaluation.
+ 
+ Findings were discussed with the ___ triage nurse by phone at 3:30 p.m.",0.05006000000000001,156.08469999999997,0.7325599999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15276734/s56471956/b5a52dff-18199ce0-77053c1e-f25bc95c-35826f46.jpg,"Endotracheal tube in standard position.  Patchy left basilar opacity
+ concerning for infection.  Severe emphysema.",0.01796,136.37079999999997,0.63028
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15353817/s50089687/027a805b-34c3efc7-fa069be6-49b4ee84-aca074b5.jpg,"Whereas image 1 shows the tip of the dot of catheter projecting over the
+ middle aspect of the esophagus, subsequent images, an in particular image 8
+ show the top of catheter correctly positioned in the stomach.  No evidence of
+ complications, notably no pneumothorax.",0.08175999999999999,152.2727,0.6203700000000001
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15353817/s50089687/027a805b-34c3efc7-fa069be6-49b4ee84-aca074b5.jpg,"Whereas image 1 shows the tip of the dot of catheter projecting over the
+ middle aspect of the esophagus, subsequent images, an in particular image 8
+ show the top of catheter correctly positioned in the stomach.  No evidence of
+ complications, notably no pneumothorax.",0.08175999999999999,152.2727,0.6203700000000001
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15353817/s50089687/027a805b-34c3efc7-fa069be6-49b4ee84-aca074b5.jpg,"Whereas image 1 shows the tip of the dot of catheter projecting over the
+ middle aspect of the esophagus, subsequent images, an in particular image 8
+ show the top of catheter correctly positioned in the stomach.  No evidence of
+ complications, notably no pneumothorax.",0.08175999999999999,152.2727,0.6203700000000001
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15360048/s54964561/6d29c5e1-faaa6955-abc22e71-c4fb851a-d3aae353.jpg,"Since the prior radiograph of a few hr earlier, a left chest tube is been
+ removed, with slight increase in size of small to moderate left pneumothorax
+ with newly appreciated lateral and basilar components in addition to the
+ pre-existing apical component.  No other relevant change.",0.21532,137.96939999999998,0.60298
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15360048/s59943524/2fd1e5a8-370bd6e0-43348646-2bfae40a-84636451.jpg,"Comparison to ___.  The left lung is minimally better expanded
+ than on the previous image, the left pneumothorax, however, still is
+ substantial.  The position of the nasogastric tube is unchanged.  The
+ orogastric tube, inserted over the postsurgical esophagus, shows a normal
+ course, the tip is not included on the image.",0.07679,136.39730000000003,0.60767
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15425725/s59802671/9289103d-d17228a3-866562aa-17722885-e878a5e3.jpg,"AP chest compared to ___, ___:43 a.m.:
+ 
+ Right lower lobe atelectasis is still marked, but improved since earlier in
+ the day.  Small right apical pneumothorax has not expanded.  Left lung is
+ clear.  Heart size is normal.  ET tube and nasogastric tube in standard
+ placements respectively.",0.08147,141.9114,0.5459799999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15455450/s51863685/9889bd71-8fa76dd1-c6fdcca0-c4c3ce81-217371fe.jpg,"In comparison to prior radiograph of 1 day earlier, left pigtail pleural
+ catheter remains in place, with a slight decrease in size of moderate left
+ pneumothorax with both apical and basilar components.  Interval worsening of a
+ nonspecific patchy right basilar opacity.  No other relevant change.",0.25826000000000005,140.57130000000004,0.5253400000000001
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15455450/s56476498/82461836-1291c04b-e71aac24-cd8902d4-813e364a.jpg,"Since the prior radiograph from 1 day earlier, a left pleural catheter is been
+ placed, with near resolution of left pleural effusion and development of a
+ moderate left pneumothorax with apical and basilar components.  Exam is
+ otherwise remarkable for new focal consolidation in the right lower lobe,
+ which may reflect aspiration or a developing infectious pneumonia.",0.6972400000000001,134.83179999999996,0.53948
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15473766/s53564050/4a01c32c-4524e4d1-1b8dc312-83f40b9b-55fdfc83.jpg,"There is slight interval decrease in right pneumothorax which still remains at
+ least moderate.  Subcutaneous air is extensive but unchanged. Right basal
+ opacity is unchanged as well as small bilateral pleural effusions.",2e-05,148.2436,0.6955500000000001
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15481731/s56532304/b2fa1590-d969dcac-8f8bc2a8-755d39c7-2bd779b5.jpg,"Left pigtail catheter is in place. Pneumothorax is still large, slightly
+ increased since the prior study. Pneumoperitoneum appears to be minimally
+ decreased since previous examination. Consolidations in both lungs are
+ unchanged.",0.30301999999999996,141.06359999999998,0.63555
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15481731/s59103528/6a00db9c-2225a79f-f8d6eaee-f39bf897-6c2eeee1.jpg,"In comparison with the study of ___, there again is a large left
+ pneumothorax despite a chest tube in place. The diffuse bilateral parenchymal
+ opacification so are essentially unchanged.  Left subclavian PICC line again
+ extends to the lower portion of the SVC.",0.13479,141.97499999999997,0.55906
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15498904/s51744295/2edf80f3-aaa105a7-5a15c627-d873685a-35cc0366.jpg,"No relevant change as compared to the previous image.  Signs of moderate to
+ massive overinflation.  Retrocardiac atelectasis.  Normal size of the cardiac
+ silhouette.  Healed old rib fractures.  No interval occurrence of pneumonia or
+ pulmonary edema.  No pleural effusions.  Tracheostomy tube in unchanged
+ position.",0.0,147.15429999999998,0.5671600000000001
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15510106/s58422728/0be9fe2e-1c014d6f-8c8b7075-45a54ac1-4a34eeb3.jpg,"DOBBHOFF TUBE CURRENTLY IS IN THE DISTAL ESOPHAGUS AND SHOULD BE FURTHER
+ ADVANCED. HEART SIZE AND MEDIASTINUM ARE UNREMARKABLE.  LUNGS ARE CLEAR. THERE
+ IS NO PLEURAL EFFUSION OR PNEUMOTHORAX.  LUNGS ARE HYPERINFLATED.",0.0,142.2282,0.6075600000000001
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15510106/s58422728/0be9fe2e-1c014d6f-8c8b7075-45a54ac1-4a34eeb3.jpg,"DOBBHOFF TUBE CURRENTLY IS IN THE DISTAL ESOPHAGUS AND SHOULD BE FURTHER
+ ADVANCED. HEART SIZE AND MEDIASTINUM ARE UNREMARKABLE.  LUNGS ARE CLEAR. THERE
+ IS NO PLEURAL EFFUSION OR PNEUMOTHORAX.  LUNGS ARE HYPERINFLATED.",0.0,142.2282,0.6075600000000001
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15558165/s54889890/9784bb32-deae4b0a-f69ad8b0-ae6a558c-59f66eb3.jpg,"As compared to the previous image, the right chest tube is non water seal. The
+ right pneumothorax has substantially increased in extent and is now
+ approximately 1.5-2 cm wide.  No evidence of tension.  Unchanged left central
+ venous access line. Unchanged borderline size of the cardiac silhouette.  No
+ pulmonary edema.  No pneumonia.",0.00513,151.07629999999997,0.59511
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15600799/s56692481/3f109b7d-404dbbd6-0f1d7b32-c8e1fb3f-fd5bf4d2.jpg,"Pneumomediastinum, better characterized on concurrent CT torso.  Tiny right
+ apical pneumothorax is not clearly visualized on the radiograph.",0.09995,148.7791,0.6068500000000001
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15683514/s59294294/7e9371d2-d455e232-1d813bcc-dd60b9d3-d322f710.jpg,"Small right pleural effusion is unchanged.  Moderate right pneumothorax has
+ increased.  Right lower lobe atelectasis has increased.  No other interval
+ change from prior study.",0.11746000000000001,140.7871,0.5991500000000001

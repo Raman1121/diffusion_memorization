@@ -1,0 +1,204 @@
+Real Path,Prompt,reid_scores,Pixel_distance,Latext_distance
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16204743/s54825020/a9a2e140-0af7845c-805a35e4-b03cea1e-f805b608.jpg,"1.  Large left pneumothorax with rightward shift of the mediastinal
+ structures, concerning for tension physiology.  A subsequent radiograph had
+ already been performed at the time of this dictation, demonstrating placement
+ of a left-sided pleural catheter.
+ 
+ 2.  Clear right lung.",0.00568,149.9591,0.6183700000000001
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16282250/s58599087/eda64044-70e116dd-78da4c5e-4bf0c446-a5330cfb.jpg,"Cardiomediastinal silhouette is within normal limits.  There is a right
+ basilar pigtail catheter.  There is an unchanged right hydropneumothorax. 
+ Numerous displaced right-sided rib fractures are seen.  Volume loss on the
+ right side is unchanged.  There are small bilateral effusions. Heart size is
+ within normal limits.",0.19165000000000004,144.1404,0.62263
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16337817/s54489107/358cc1ce-39a9daed-42fcac8a-465730c4-5a013f4a.jpg,"The exam is unchanged since previous exam done at 8:54 a.m.  
+ 
+ This was discussed with the medical team. Large left tension pneumothorax is
+ stable even if the chest tube has been put on succion raising the possibility
+ of a malfunctioning/malpositioned tube.",0.0,142.92139999999998,0.6536899999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16337817/s55882546/05b683f0-a0d67afe-facece1a-e70fc566-b3540ed0.jpg,"Large left tension pneumothorax is new after chest tube placed on water seal. 
+ 
+ 
+ The medical team has been verbally contacted at 10:45 a.m..",0.0,149.3071,0.64137
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16383540/s58772678/1a3554ac-b70f0f6b-0df0e9ed-779bb7db-e4ccb7dc.jpg,"Large right pneumothorax with minimal to no significant improvement compared
+ to the prior study.  Subtle tension not excluded.
+ 
+ Right chest tube is seen projecting over the inferolateral right chest,
+ appears low in position, and terminates lateral/outside the right chest wall.
+ 
+ Findings discussed with Dr. ___ at ___:___ on ___ via
+ telephone 5 minutes after discovery.",0.28719,152.979,0.6040300000000001
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16496528/s57909273/73c98fb8-6f06c468-07321d75-46d51f52-f110a0b1.jpg,"As compared to the previous radiograph, the appearance of the known displaced
+ right rib fractures are constant. The position of the right pigtail catheter
+ in the pleural space is also unchanged. A 8 mm apical right pneumothorax
+ without evidence of tension. Normal unchanged appearance of the cardiac
+ silhouette and the left lung.",0.51505,146.87650000000002,0.51203
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16496528/s57909273/73c98fb8-6f06c468-07321d75-46d51f52-f110a0b1.jpg,"As compared to the previous radiograph, the appearance of the known displaced
+ right rib fractures are constant. The position of the right pigtail catheter
+ in the pleural space is also unchanged. A 8 mm apical right pneumothorax
+ without evidence of tension. Normal unchanged appearance of the cardiac
+ silhouette and the left lung.",0.51505,146.87650000000002,0.51203
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16560053/s57453018/080aa3c3-d8bec1c3-16e9f8bb-41f23040-1bd77bac.jpg,"1. Moderate left pneumothorax with chest tube in place.
+ 
+ 2. Interval resolution of right pneumothorax.
+ 
+ 3. Endotracheal tube is low, directed towards the right mainstem bronchus and
+ should be pulled back to avoid bronchial intubation.  
+ 
+ Findings discussed with ___ by phone at 3:15pm on ___.",0.0,147.5744,0.6115099999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16562665/s50167189/b55c23f0-829098b6-f817e7fa-9912415c-fdf2c6fb.jpg,"Small right pneumothorax is larger now than it was at 14:50 on ___. 
+ The right pigtail pleural drainage catheter is folded several times in the
+ right upper chest laterally.  Left lung is clear.  Heart size is normal. 
+ Subcutaneous emphysema is stable.",0.09265000000000001,155.23320000000004,0.6051
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16562665/s50308064/6969fff6-54d2b043-ffd7c7a8-1ae81e28-1aaf2a1f.jpg,"In comparison with the earlier study of this date, there is some increase in
+ the degree of right pneumothorax despite the presence of a pigtail catheter. 
+ The curvilinear line that mimics a pleural line on the left is merely due to
+ overlying skin fold.",0.00121,129.74849999999998,0.6013
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16562665/s52456469/7ef96968-73c00b00-e453750f-2c853938-926ce139.jpg,"Comparison to ___.  The right chest tube is in unchanged position.
+ The extent of the known right pneumothorax with minimal diaphragmatic
+ depression has slightly increased.  No change in appearance of cardiac
+ silhouette and of the normal left lung.",0.0,145.73440000000002,0.62966
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p13/p13950510/s51354551/6551b615-dcd26fb0-c1f21261-175c38fa-e9c44015.jpg,Moderate to large right pneumothorax with leftward mediastinal shift.,0.00327,152.0588,0.6940799999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16562665/s59670625/74823620-b7d45633-f33b97df-caf4e818-8df106fe.jpg,"Interval decrease in right apical pneumothorax which is now small.
+ Substantial increase in right chest wall subcutaneous emphysema.",0.47433,141.8551,0.59968
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16607081/s55459862/d0bd3811-7ca7eafd-2cbf08e8-4315adab-58ec43a7.jpg,"Compared to prior chest radiographs since ___, most recently ___:40.
+ 
+ Small right apical pneumothorax has increased slightly since earlier in the
+ day.  Pigtail pleural drainage catheter has not be been modified.  Lungs are
+ clear.  Heart size normal.  No appreciable pleural effusion.  Dorsal column
+ stimulator placed.",0.29091,138.4464,0.6148500000000001
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16645602/s59250168/a2181a0d-87c90917-1f34d88d-48323da6-2d626a3e.jpg,"Comparison to ___.  The right PICC line has been removed.  The
+ feeding tube has been advanced.  The tip of the tube is now in pre-pyloric
+ position.  No complications, notably no pneumothorax.  Otherwise unchanged
+ radiograph.  No evidence of pneumonia.  Large hiatal hernia.",0.012889999999999999,151.47880000000004,0.6248400000000001
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16807878/s56871820/3d9891ac-64745aa9-c7655ffa-458c07d5-e2bad193.jpg,"1.  Compared with the radiograph of 1 day earlier, no significant change the
+ bilateral pulmonary consolidations concerning for pneumonia, given the
+ patient's clinical history.
+ 
+ 2.  Large amount of subcutaneous emphysema is also grossly unchanged.",0.06919,137.4774,0.6542399999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16827631/s51463111/b066c51b-63af9293-9856bda3-968c9b0b-60379fd8.jpg,"New intra-aortic balloon pump, standard position.
+ 
+ Severe pulmonary edema has worsened, redistributed to the upper lobes because
+ of supine positioning.  Pleural effusions are presumed, but not substantial. 
+ Moderate cardiomegaly unchanged.  No pneumothorax.",0.51242,142.33169999999998,0.5948599999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16863735/s59066213/6dd223f1-ed88552e-1b361838-72914dc0-4a7e7264.jpg,"Possible left pneumothorax, less likely skin fold.  Right lateral
+ decubitus or expiratory chest radiograph could be performed to confirm this
+ finding.
+ 
+ These findings and recommendations were discussed with ___ by
+ ___ by telephone at 3:05 p.m. on ___ at the time of discovery
+ of these findings.",0.20661000000000004,142.75610000000003,0.75981
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16883904/s59442283/d986c515-ab0afbac-9be0ced6-b02ee9f5-0ca2b158.jpg,"Small to moderate right pneumothorax has not increased since ___:00 on ___.  Nor is there any appreciable right pleural effusion.  Emphysema is
+ severe.  Heart size is normal.",0.6108900000000002,151.05580000000003,0.58872
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16883904/s59442283/d986c515-ab0afbac-9be0ced6-b02ee9f5-0ca2b158.jpg,"Small to moderate right pneumothorax has not increased since ___:00 on ___.  Nor is there any appreciable right pleural effusion.  Emphysema is
+ severe.  Heart size is normal.",0.6108900000000002,151.05580000000003,0.58872
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16920636/s54901772/13379af8-04afc5f3-6bba44c2-7020562c-96cf729d.jpg,"1. The new Dobhoff tube coils within the oropharynx and should be
+ repositioned.
+ 2. The pre-existing enteric tube side port terminates at the GE junction and
+ should be advanced 7.1 cm for optimal placement.
+ 3. Unchanged hyperexpansion consistent with COPD.  No pneumothorax or focal
+ consolidation.",0.47608000000000006,136.86750000000004,0.62791
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16925602/s53468635/6af7e557-e24e8ef4-bf3e5005-39ac40bb-74667cd9.jpg,"ENDOTRACHEAL TUBE IN APPROPRIATE POSITION. LARGE AREA OF LUCENCY PROJECTING
+ OVER THE RIGHT UPPER ABDOMEN, PARTIALLY IMAGED, WORRISOME FOR FREE AIR. NO
+ PRIORS AVAILABLE FOR COMPARISON.  PATIENT WITH REPORTED CT (OSH?) SHOWING
+ PNEUMOPERITONEUM",1e-05,147.44070000000002,0.5839
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16932362/s50397885/ff54b370-7d914693-91ad6a74-17e86563-ee77fe54.jpg,"In comparison to previous radiograph of 2 days earlier, a right chest tube
+ remains in place with slight increase in size of a moderate right
+ pneumothorax.  Otherwise no relevant change.",0.05797,159.4999,0.64297
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16932362/s53877624/fb4a4510-b136be2c-219f888a-b6800119-2f9638a1.jpg,"Significant interval improvement of previously noted right moderate to large
+ pneumothorax status post chest tube placement.  Substantial atelectasis right
+ lower lobe.",0.6946700000000001,150.0026,0.6085
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16932362/s56120182/4335ea52-2147b5c3-53ee7fd0-ee0fa24d-47a0d4e7.jpg,"Comparison to ___.  The extent and severity of the pre-existing
+ millimetric right pneumothorax is stable.  There is no evidence of tension. 
+ The right chest tube continues to be correctly positioned.  Air collection in
+ the soft tissues is also stable.  No change in appearance of the left lung.",0.00567,154.43710000000002,0.70801
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16932362/s56120182/4335ea52-2147b5c3-53ee7fd0-ee0fa24d-47a0d4e7.jpg,"Comparison to ___.  The extent and severity of the pre-existing
+ millimetric right pneumothorax is stable.  There is no evidence of tension. 
+ The right chest tube continues to be correctly positioned.  Air collection in
+ the soft tissues is also stable.  No change in appearance of the left lung.",0.00567,154.43710000000002,0.70801
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16932362/s56120182/4335ea52-2147b5c3-53ee7fd0-ee0fa24d-47a0d4e7.jpg,"Comparison to ___.  The extent and severity of the pre-existing
+ millimetric right pneumothorax is stable.  There is no evidence of tension. 
+ The right chest tube continues to be correctly positioned.  Air collection in
+ the soft tissues is also stable.  No change in appearance of the left lung.",0.00567,154.43710000000002,0.70801
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16932362/s56350176/2e9cdcde-3daec430-7877e4d0-cccae8a4-afd0234f.jpg,"Right chest tube is in place but the pneumothorax appears to be large. 
+ Suction needs to be resumed.  Left lung is clear.  Cardiomediastinal
+ silhouette is unchanged.",0.49699,146.94180000000003,0.6622999999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16932362/s56350176/2e9cdcde-3daec430-7877e4d0-cccae8a4-afd0234f.jpg,"Right chest tube is in place but the pneumothorax appears to be large. 
+ Suction needs to be resumed.  Left lung is clear.  Cardiomediastinal
+ silhouette is unchanged.",0.49699,146.94180000000003,0.6622999999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16932362/s56360738/15750612-5aa17337-d8ce0eb9-9206af43-43deda28.jpg,"1. Moderate right pneumothorax stable in size from examination 9 hours prior.
+ 2. Unchanged right chest tube positioning.
+ 3. Increased opacity in the right mid to lower lung, concerning for worsening
+ pneumonia.",0.19995000000000002,161.88660000000002,0.61898
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16932362/s56360738/15750612-5aa17337-d8ce0eb9-9206af43-43deda28.jpg,"1. Moderate right pneumothorax stable in size from examination 9 hours prior.
+ 2. Unchanged right chest tube positioning.
+ 3. Increased opacity in the right mid to lower lung, concerning for worsening
+ pneumonia.",0.19995000000000002,161.88660000000002,0.61898
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16932362/s58342805/821cbaa8-7c87ef6e-f815d7c7-19de72db-a7d6620f.jpg,"Right chest tube identified.  Right-sided pneumothorax is larger, now moderate
+ to large, previously not as clearly delineated.",0.049969999999999994,150.8525,0.74197
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p17/p17095651/s50376585/78c09f56-45877ca0-ec96aa37-7f9c3e1e-bfa8d0a7.jpg,"Pneumomediastinum, bilateral pneumothoraces, pneumoperitoneum, and pneumatosis
+ of the stomach are better evaluated on the concurrently obtained CT of the
+ torso.",7e-05,154.21520000000004,0.58812
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p17/p17095651/s50376585/78c09f56-45877ca0-ec96aa37-7f9c3e1e-bfa8d0a7.jpg,"Pneumomediastinum, bilateral pneumothoraces, pneumoperitoneum, and pneumatosis
+ of the stomach are better evaluated on the concurrently obtained CT of the
+ torso.",7e-05,154.21520000000004,0.58812
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p17/p17120667/s58506054/b195382c-3847761b-1c508639-c67fd7f4-7b732646.jpg,"1. Hyperinflated lungs compatible with emphysema with multifocal
+ consolidations compatible with multifocal pneumonia, small left pleural
+ effusion, overall unchanged compared to ___.
+ 2. Enteric tube traverses below the diaphragm, tip not included on this
+ radiograph.",0.01696,138.57719999999998,0.57317
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p17/p17182744/s57902823/4b358bab-e4ecc51d-5f3a7177-54e0385a-b21e7b77.jpg,"The left chest tube is in unchanged position. The extent of the left
+ pneumothorax has decreased, the pneumothorax is now millimetric in ___.
+ Areas of atelectasis on the right have almost completely resolved. No overt
+ pulmonary edema.  No pneumonia.",0.09512000000000001,139.07860000000002,0.61493
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p17/p17244595/s53511147/744eeae3-d3c6571f-e7be6187-3bc5407c-627d54b0.jpg,": Left mediastinal shift is similar to previous study.  ET tube, right PICC
+ line and NG tube are in unchanged positions.  Right lung is overall well
+ expanded.  There is no appreciable right pneumothorax.  Right chest tube is in
+ place.",0.9188600000000001,145.68640000000002,0.42072000000000004
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p17/p17244595/s55813572/836cc568-7d9ebbd7-f4a3063a-0cc948f7-94748235.jpg,"Stable appearance of the left lung following pneumonectomy. New moderate size
+ right pneumothorax.",0.19414000000000003,152.4602,0.64646
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p17/p17244595/s57335788/d676a557-b8f67049-65445b2f-7d4aff6e-34f12ace.jpg,"Compared to chest radiographs ___ through ___.
+ 
+ Minimal if any right apical pneumothorax, with an upper pleural drainage tube
+ in place.  No appreciable right pleural effusion.  Mediastinal shift to the
+ left is due to remote left pneumonectomy.
+ 
+ Left PIC line ends in the low SVC.",0.6338900000000001,130.97080000000003,0.63575
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p17/p17258978/s59594352/266aad58-903c793f-5017ede7-7f5f0ab1-db605942.jpg,"Comparison to ___, 06:27.  The position of the left pigtail
+ catheter is unchanged.  Minimal remnant left pneumothorax is present.  No
+ evidence of tension.  Left and right basal parenchymal opacities are not
+ substantially changed.  Stable size of the cardiac silhouette.",0.00033,132.87249999999997,0.59553
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p17/p17336743/s53735088/f9037cca-e8dabfed-03dc70ee-139144d9-03bd3126.jpg,"Comparison to ___.  Increase in radiodensity at the right lung
+ base, potentially reflecting developing pneumonia or atelectasis.  The
+ monitoring and support devices are in constant position, unchanged position of
+ the left chest tube, with mild and stable left pneumothorax.  No evidence of
+ tension.  Constant appearance of the cardiac silhouette.",0.0,137.21810000000002,0.6527999999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p17/p17380809/s57889097/ca872d39-ab6e388c-2ea470cc-4f120657-89997628.jpg,"1.  ET tube is in standard position.
+ 2.  Worsening of right moderate pneumothorax.  
+ 
+ This was discussed with the medical team.",0.19741999999999998,138.2239,0.61315
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p17/p17478604/s55952450/0dddedfa-2238dc2c-e16067dd-9afc4e3f-8c7a5044.jpg,"As compared to the previous radiograph, the right chest tube has been slightly
+ pulled back.  No intra pleural component of the chest tube can be identified. 
+ The known right pneumothorax has moderately increased in extent and severity. 
+ Minimal flattening of the right hemidiaphragm is not substantially changed as
+ compared to the previous examination.",0.0,147.40159999999997,0.6602699999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p17/p17580540/s55471790/bac90b95-a2a85da9-6ea11095-68296b1d-b1dbb293.jpg,"1.  Improving small right apical pneumothorax status post insertion of a right
+ chest tube since midnight today.
+ 
+ 2.  Stable moderate left lateral pneumothorax since midnight today, but new
+ since yesterday.",0.0,154.88280000000003,0.61364
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p17/p17580540/s57736404/8090e718-cde52ba8-5a399254-b1f1f16a-ad9f3f25.jpg,"Small right apical pneumothorax unchanged, right apical thoracostomy and right
+ pigtail pleural drainage catheter still in place.  Diffuse infiltrative
+ abnormality right lung unchanged.  Marked scoliosis, concave leftward,
+ displaces heart into the left hemithorax producing some left basal
+ atelectasis.",0.36293,140.57760000000002,0.56689
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p17/p17592232/s53760896/fcda28e8-e29cc557-ccc62693-1088c400-91b2719a.jpg,"Since the prior radiograph from earlier the same date, a left pigtail pleural
+ catheter has been placed with substantial decrease in size of left upper
+ pneumothorax, now small.  Opacity in the left mid lung has partially cleared
+ and there has been interval improved aeration of the right lung base.  No
+ other relevant change.",0.7252000000000001,126.2666,0.5882699999999998
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p17/p17592232/s54206673/5fa91558-df435805-c4eefe87-4a4f9150-a01b3588.jpg,"Compared to chest radiographs ___ through ___.
+ 
+ No pneumothorax.  Left apical pigtail pleural drainage catheter unchanged in
+ position.  Severe atelectasis is present at both lung bases, probably lower
+ lobe collapse on the right.  Heart size normal.  Tracheostomy tube in standard
+ placement.  Left PIC line ends in the low SVC.",0.43354,126.2953,0.59575

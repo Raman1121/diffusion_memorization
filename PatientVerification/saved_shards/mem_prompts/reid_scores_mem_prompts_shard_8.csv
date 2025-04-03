@@ -1,0 +1,33 @@
+Real Path,Prompt,reid_scores,Pixel_distance,Latext_distance
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p19/p19576807/s58663276/7457575f-c689235c-3d745f91-d31998ed-2f8b5b8a.jpg,"1. Standard positioning of the endotracheal tube and orogastric tube.
+ 
+ 2. Deep left sulcus highly concerning for a pneumothorax.  Findings discussed
+ with Dr. ___ by Dr. ___ at 19:40, ___ by telephone.",0.02807,167.7572,0.64352
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p19/p19620779/s56775234/6a631750-1b35844d-e04c76aa-5a9f432f-bf547096.jpg,"Comparison to ___.  The patient has been intubated.  The tip of the
+ endotracheal tube projects 3 cm above the carina.  No pulmonary edema, no
+ pleural effusions.  Severe scoliosis persists.  Mild retrocardiac atelectasis
+ is stable.  New cervical vertebral fixation devices are visualized.",0.51963,132.82830000000004,0.6127100000000001
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p19/p19660649/s56445356/03dd9b14-838dbc4a-d486e073-41d3c0a1-d42e5225.jpg,"As compared to the previous radiograph, the signs indicative of pulmonary
+ edema have decreased in extent and severity.  The lung volumes have slightly
+ increased. The tip of the intra-aortic balloon pump is slightly too high and
+ must be pulled back by approximately 1 cm.  The other monitoring and support
+ devices are in correct position.",0.37806,124.67319999999998,0.56058
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p19/p19661325/s55875577/f41c9236-dcc7c4b4-fe96aed4-56f33dcf-9d592977.jpg,"AP chest compared to ___:11 a.m.
+ 
+ Feeding tube, wire stylet removed, ends in the upper stomach.  Mild
+ cardiomegaly stable.  Lower lungs clear.  Lung apices excluded, but
+ sufficiently imaged to show bronchiectasis and pleural thickening, most likely
+ scarring from previous tuberculosis.",0.0733,156.8378,0.49727
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p19/p19790164/s55669868/180a8010-146c049a-b2396a01-d6f9521f-d285f512.jpg,"Contrast residua within the lower portion of the gastric
+ pull-through with NG tube terminating in this region.  Large diaphragmatic
+ hernia accounting for opacities projecting over the lower lungs, consisting of
+ intra-abdominal fat and loops of bowel.",0.06681,160.8333,0.63075
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p19/p19958882/s57088794/0d77e017-3cfbcb0b-bb003895-60e096e8-b626868b.jpg,"1.  Right chest Port-A-Cath terminates in the mid SVC without complications.
+ 
+ 2.  Right hilar mass and multiple bilateral lung nodules consistent with known
+ metastatic disease.",0.20781999999999998,144.60349999999997,0.69982
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p11/p11484887/s52115350/0aef6a1c-873ff871-970e1eb5-af3e8153-a10fd072.jpg,"1.  No acute cardiopulmonary process.  
+ 
+ 2.  No acute fracture or dislocation detected, however conventional chest
+ radiographs are not sensitive in detecting chest cage trauma.  If the patient
+ has focal findings, bone detail views should be performed of those areas.",5.9999999999999995e-05,147.18900000000002,0.5957600000000001

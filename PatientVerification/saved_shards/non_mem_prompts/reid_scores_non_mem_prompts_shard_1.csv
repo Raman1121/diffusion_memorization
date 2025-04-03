@@ -1,0 +1,96 @@
+Real Path,Prompt,reid_scores,Pixel_distance,Latext_distance
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p10/p10114939/s58814350/a32990db-01db76c5-5cd8c181-a1ee08ab-d7c0768c.jpg,No acute cardiopulmonary radiographic abnormality.,0.20434999999999998,147.4502,0.71069
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p13/p13312240/s59102062/23964da2-b9dfd64c-7d84d19d-7c94948d-90b48cb5.jpg,Worsening left lower lobe pneumonia.,0.019340000000000003,136.798,0.6696699999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p13/p13312240/s59102062/23964da2-b9dfd64c-7d84d19d-7c94948d-90b48cb5.jpg,Worsening left lower lobe pneumonia.,0.019340000000000003,136.798,0.6696699999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p13/p13568681/s53624778/2b093a03-68ee77a8-ce07dd11-16bebf07-364e4279.jpg,"No acute cardiopulmonary process.  Left chest wall single lead pacing device
+ with lead tip at the right ventricular apex.",0.00396,152.61729999999997,0.63582
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p13/p13634880/s59941869/4120b6b5-14e16e9f-0071bee9-069af066-79f4be8e.jpg,"Increased now moderate right pleural effusion with overlying
+ atelectasis, underlying consolidation cannot be excluded.  Persistent
+ enlargement of the cardiac silhouette.",0.28786,132.3649,0.68297
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p13/p13647451/s50643504/71418809-e295e022-f10e71a4-47ab69d6-a8f01cc2.jpg,"1.  New bibasilar atelectatic bands.
+ 2.  Improved pleural effusions which are now minimal.",0.16909999999999997,143.93460000000002,0.6685300000000001
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p13/p13651997/s58324106/712c1921-39e6046c-b94835e2-3378fb87-61845fce.jpg,"Interval placement of left internal jugular central venous catheter terminates
+ at the SVC/brachiocephalic junction without evidence of pneumothorax.
+ 
+ Again seen ___ mm nodular opacity projecting over the right upper lung appears
+ calcified, may represent a calcified granuloma.  Findings can be confirmed on
+ non emergent chest CT.",0.22123000000000004,162.5154,0.61527
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p13/p13678296/s51918536/87c97e21-c2f45f4f-c832bb9a-7c187c90-ff48be42.jpg,"1.  Multiple pulmonary nodules, increased in size or new since ___,
+ concerning for neoplastic process.
+ 2.  Chronic bibasilar bronchiectasis and atelectasis.
+ 3.  No lobar consolidation seen.",0.5985400000000001,149.8941,0.66539
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p13/p13693499/s54121121/94675ec4-8aa23650-c7ecc4ce-dfd9cba7-5df83b27.jpg,Small to moderate bilateral pleural effusions with adjacent atelectasis.,0.00015000000000000001,139.97710000000004,0.6874599999999998
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p12/p12343156/s50071773/2bda2caa-0940ea81-f70429a1-8eff686e-4f34f053.jpg,"In comparison with the study of ___, there is little change and no
+ evidence of acute pneumonia, vascular congestion, or pleural effusion.",0.011579999999999998,143.97319999999996,0.69479
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p14/p14047315/s59141087/fd3409ca-6f23c458-246be554-816c87b1-5d309b71.jpg,"Tracheostomy and right-sided central line are unchanged in position.  There is
+ a VP shunt coursing along the right chest with tip in the right upper abdomen.
+ Heart size is within normal limits.  There are no focal consolidations,
+ pleural effusion, or pulmonary edema. There are no pneumothoraces.",0.00033999999999999997,142.15830000000003,0.5755100000000001
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p14/p14068639/s50782452/4ccb8129-138954fe-8cff3bf1-0deacef3-64b21b08.jpg,"Resolved pulmonary edema. Nearly resolved bilateral pleural effusions.
+ Improved left lower lobe atelectasis.",0.27512000000000003,144.019,0.68521
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p12/p12343156/s50071773/2bda2caa-0940ea81-f70429a1-8eff686e-4f34f053.jpg,"In comparison with the study of ___, there is little change and no
+ evidence of acute pneumonia, vascular congestion, or pleural effusion.",0.011579999999999998,143.97319999999996,0.69479
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p10/p10114939/s58814350/a32990db-01db76c5-5cd8c181-a1ee08ab-d7c0768c.jpg,No acute cardiopulmonary radiographic abnormality.,0.20434999999999998,147.4502,0.71069
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p14/p14435216/s58306838/f131b9aa-c974e6ab-e5345557-22712cea-220da39a.jpg,"The right IJ central line has been removed.  The rest of the lines and tubes
+ are unchanged in position.  There is unchanged cardiomegaly.  There is
+ improved aeration.  Minimal subsegmental atelectasis at the left base is seen.
+ There is elevation of the right hemidiaphragm.  No pneumothoraces are seen.",0.35167999999999994,144.5825,0.5538700000000001
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p14/p14450867/s55196627/3d0635d1-e01e4490-f9c51ea4-51655076-4aa1a880.jpg,"Cardiomegaly without congestive heart failure.  Subsegmental
+ atelectasis in the lung bases.",0.00711,146.85979999999998,0.64753
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p14/p14453634/s58695992/32600a23-9b52f5ee-3bb14a1e-5036fe06-8764d221.jpg,"Worsening diffuse alveolar consolidations with air bronchograms with possible
+ central cavitations of right apical consolidation representing ARDS, pneumonia
+ or edema.",0.5016,143.85179999999997,0.66108
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p10/p10114939/s58814350/a32990db-01db76c5-5cd8c181-a1ee08ab-d7c0768c.jpg,No acute cardiopulmonary radiographic abnormality.,0.20434999999999998,147.4502,0.71069
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p14/p14698539/s54565013/0788c234-74ba5163-91270de5-b6b1d2ab-8cb32e73.jpg,"There is patchy consolidation in the right mid and lower lung zones.  There is
+ no pneumothorax or CHF.  The left central line tip is in the SVC.  There is no
+ CHF.",0.23163,157.19900000000004,0.6229799999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p14/p14939850/s59524293/3973b5e0-653e31ad-e7c1b4d1-98034e7a-c8936447.jpg,"No significant interval change from prior.  Persistent bibasilar airspace
+ opacities likely reflective of acute on chronic bronchitis and bronchiolitis
+ with unchanged small left pleural effusion.",0.0986,141.04660000000004,0.67066
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p10/p10114939/s58814350/a32990db-01db76c5-5cd8c181-a1ee08ab-d7c0768c.jpg,No acute cardiopulmonary radiographic abnormality.,0.20434999999999998,147.4502,0.71069
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15199857/s55361362/ddd7171d-4a5fa17c-f3040aec-3a00da40-4d118f6d.jpg,"Mild increase in the right medial lung base and retrocardiac opacities, which
+ may represent atelectasis, but cannot exclude aspiration or pneumonia in the
+ right clinical setting.",0.20845000000000002,127.28150000000002,0.62572
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15270413/s55818774/839720f2-9927f541-c88fa664-58b6e18e-8506a1ea.jpg,"Findings most consistent with right upper lobe pneumonia. 
+ Discussed with Dr. ___ by Dr. ___ by phone at 2:33 p.m.
+ on ___.",0.20552,146.2927,0.6804699999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15326204/s58494205/602f0726-e7772097-f73f5ca1-a2bc1fc0-ecfdb26f.jpg,"Heart size is normal.  Left perihilar consolidation and right mid lung opacity
+ up persistent but there is minimal interval improvement in the overall
+ opacities as compared to previous study.  The right linear oblique opacity has
+ small O element of atelectasis.  There is no pleural effusion.  There is no
+ appreciable pneumothorax.",0.4667299999999999,123.58160000000001,0.56036
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p13/p13312240/s59102062/23964da2-b9dfd64c-7d84d19d-7c94948d-90b48cb5.jpg,Worsening left lower lobe pneumonia.,0.019340000000000003,136.798,0.6696699999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15479539/s52482119/96c8bc69-5c0d345b-35dbf693-022b5a52-99768414.jpg,"AP chest compared to ___:
+ 
+ ET tube is in standard position, left PIC line is traceable as far as the low
+ SVC.  Moderate cardiomegaly is chronic.  Pulmonary and vascular engorgement
+ has worsened since ___, probably unchanged since ___.  There
+ are no focal findings of pneumonia or lobar atelectasis.",0.33714,155.1548,0.64467
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15532923/s58909320/efc42bdf-05e091d5-3f4a02b1-8288485a-05904a05.jpg,"No acute process identified.  Small bilateral pleural effusions. 
+ Mild bibasilar atelectasis.",0.34794,160.3543,0.66014
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15633721/s52469446/14982416-d5be6151-1cc1ccfc-b44840d5-e2659bd4.jpg,"Heart size and mediastinum are stable.  Small bilateral pleural effusions are
+ similar to previous examination.  There is substantial interval improvement in
+ pulmonary edema.",0.0,145.0761,0.6396499999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15633721/s52469446/14982416-d5be6151-1cc1ccfc-b44840d5-e2659bd4.jpg,"Heart size and mediastinum are stable.  Small bilateral pleural effusions are
+ similar to previous examination.  There is substantial interval improvement in
+ pulmonary edema.",0.0,145.0761,0.6396499999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15658016/s59059190/cc119d23-6ac9ad90-81b139df-82ebb40f-03833016.jpg,"Comparison to ___.  There is no evidence for the presence of a
+ pneumothorax.  Stable low lung volumes.  No pleural effusions.  Normal size of
+ the cardiac silhouette.",0.50276,155.10930000000002,0.61695
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15726871/s53556233/cee5efe4-16e3b5c9-27c37103-a1e3ef11-91921fea.jpg,"Bibasilar opacities likely in part due to atelectasis and effusions noting
+ that infection cannot be excluded.",0.56918,159.56629999999998,0.62276
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15851682/s52451900/2369bfb1-aca8362b-8e2e0f8e-d41da376-f9944c1f.jpg,"Status post extubation and removal of right chest tube with a stable small
+ right apical pneumothorax.
+ 
+ New partial right middle lobe atelectasis.",1e-05,144.30569999999997,0.6282499999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p15/p15942111/s57554021/f2e576d6-d8c4d60b-3ba196ba-1e4becc1-916892e7.jpg,"In comparison with the study of pelvis ___, there is again increased
+ opacification at the right base. Although this most likely reflects
+ atelectasis, in the appropriate clinical setting superimposed pneumonia would
+ have to be considered. Streaks of atelectasis are also seen at the left base
+ and left mid zone.",0.16087999999999997,142.31930000000003,0.6851799999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p10/p10114939/s58814350/a32990db-01db76c5-5cd8c181-a1ee08ab-d7c0768c.jpg,No acute cardiopulmonary radiographic abnormality.,0.20434999999999998,147.4502,0.71069
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p16/p16286157/s52173614/417ab77e-85e09c49-f9028504-d33b427f-58c09078.jpg,"1.  Consolidation at the lung bases could represent aspiration or pneumonia in
+ the appropriate clinical setting.
+ 
+ 2.  Compression deformities of multiple mid thoracic vertebral bodies are
+ unchanged from ___.",0.02318,148.1051,0.6373800000000001

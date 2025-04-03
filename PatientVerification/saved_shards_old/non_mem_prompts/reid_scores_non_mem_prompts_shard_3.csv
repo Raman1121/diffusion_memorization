@@ -1,0 +1,56 @@
+Real Path,Prompt,reid_scores,Pixel_distance,Latext_distance
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p18/p18723992/s52448113/26de557a-0aee9b8e-a9023e9b-db385e27-c4141b73.jpg,"As compared to the previous image, the tip of the left PICC line is not
+ substantially changed. The line projects over the upper SVC, close to the
+ azygos vein.  No complications are noted. Unchanged appearance of the cardiac
+ silhouette and the left lung bases.",0.64252,145.06549999999996,0.57412
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p18/p18877812/s57889127/7bd0fc1e-68b88b39-3ead959d-c938c11a-3dbdd97f.jpg,"Moderate bilateral pleural effusions have increased substantially since
+ ___.  Heart is not enlarged but mediastinal vessels are more dilated. 
+ No focal pulmonary abnormality.  No pneumothorax.
+ 
+ ET tube, right internal jugular line, and nasogastric drainage tube are in
+ standard placements.",0.27481,138.41879999999998,0.5197299999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p18/p18958916/s52967731/246bca5e-45ad3284-23c436f9-8e6ac3a2-cfa771d7.jpg,"Patchy bibasilar atelectasis in the setting of low lung volumes.  No focal
+ consolidation to suggest pneumonia.",0.03218,133.5859,0.64037
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p19/p19023306/s54741455/26258f25-355cdf64-bcaf9bb6-028b0637-cf3f8916.jpg,"Markedly improved multifocal pneumonia, not completely resolved",0.029319999999999995,147.9547,0.72755
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p19/p19107011/s55527340/87640d7c-8e30584f-faee75c5-4b0cfd27-1206ad52.jpg,"Hilar vascular prominence.  Please correlate with subsequent CT chest for
+ further details.",0.0,144.5443,0.6202500000000001
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p19/p19270010/s51366836/d59c4987-10143111-03557d55-2ad40f60-5909318c.jpg,"Elevation of the right hemidiaphragm with overlying right base
+ atelectasis.  Slight blunting of the posterior right costophrenic angle may
+ relate to pleural thickening versus a very trace pleural effusion.",0.20245000000000002,134.26220000000004,0.5599999999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p10/p10114939/s58814350/a32990db-01db76c5-5cd8c181-a1ee08ab-d7c0768c.jpg,No acute cardiopulmonary radiographic abnormality.,0.20434999999999998,147.4502,0.71069
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p10/p10114939/s58814350/a32990db-01db76c5-5cd8c181-a1ee08ab-d7c0768c.jpg,No acute cardiopulmonary radiographic abnormality.,0.20434999999999998,147.4502,0.71069
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p10/p10114939/s58814350/a32990db-01db76c5-5cd8c181-a1ee08ab-d7c0768c.jpg,No acute cardiopulmonary radiographic abnormality.,0.20434999999999998,147.4502,0.71069
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p19/p19448760/s52862864/f2b8ba9e-9d1b1030-7ff2e049-3a01efa3-3af55e95.jpg,"In comparison with the study of ___, ___ tip the tip of the right
+ PICC line extends barely into the right hemithorax. Otherwise, continued
+ enlargement of the cardiac silhouette with extensive mitral annulus
+ calcification but no definite vascular congestion or acute pneumonia. Pacer
+ leads are unchanged.",0.33132,138.57989999999998,0.62413
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p19/p19563488/s58899847/fef1901d-1daf0136-bc7b8269-190c589f-1304b234.jpg,"Dobbhoff tube.  Tip is below the field of view, at least in distal stomach.  A
+ left central venous line tip is in the right atrium. Left pleural effusion has
+ increased in the interim, large. He mild vascular engorgement is present.  No
+ pneumothorax is seen.",0.15822,147.3297,0.52542
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p19/p19739384/s55617215/6799f345-b5724e11-3d1b5a35-11e5b1cc-a06304dc.jpg,"AP chest compared to ___, ___:55 p.m.:
+ 
+ Nasogastric tube has been advanced to the mid stomach.  Moderate cardiomegaly,
+ mediastinal and pulmonary vascular engorgement are unchanged indicating
+ borderline cardiac dysfunction.  No pneumothorax.  No appreciable pleural
+ effusion.",0.43802,181.31320000000002,0.5599999999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p19/p19739384/s55617215/6799f345-b5724e11-3d1b5a35-11e5b1cc-a06304dc.jpg,"AP chest compared to ___, ___:55 p.m.:
+ 
+ Nasogastric tube has been advanced to the mid stomach.  Moderate cardiomegaly,
+ mediastinal and pulmonary vascular engorgement are unchanged indicating
+ borderline cardiac dysfunction.  No pneumothorax.  No appreciable pleural
+ effusion.",0.43802,181.31320000000002,0.5599999999999999
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p19/p19751438/s51076093/9c2ae26a-61121ec1-fd659b33-e241c98d-dfb3dff4.jpg,"Low lung volumes and mild bibasilar atelectasis.  Possible trace right pleural
+ effusion.  No focal consolidation or pneumothorax.
+ 
+ Re- demonstrated gaseous distension of bowel and stomach beneath the left
+ hemidiaphragm.",0.49742999999999993,148.55099999999996,0.5672900000000001
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p12/p12037671/s53670137/7ccadf1a-4de50881-7c0eb31b-cd64d5ee-47bc0a06.jpg,"Streaky retrocardiac opacity, likely atelectasis.",0.0017399999999999998,138.10550000000003,0.58402
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p12/p12037671/s53670137/7ccadf1a-4de50881-7c0eb31b-cd64d5ee-47bc0a06.jpg,"Streaky retrocardiac opacity, likely atelectasis.",0.0017399999999999998,138.10550000000003,0.58402
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p12/p12343156/s50071773/2bda2caa-0940ea81-f70429a1-8eff686e-4f34f053.jpg,"In comparison with the study of ___, there is little change and no
+ evidence of acute pneumonia, vascular congestion, or pleural effusion.",0.011579999999999998,143.97319999999996,0.69479
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p10/p10114939/s58814350/a32990db-01db76c5-5cd8c181-a1ee08ab-d7c0768c.jpg,No acute cardiopulmonary radiographic abnormality.,0.20434999999999998,147.4502,0.71069
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p10/p10114939/s58814350/a32990db-01db76c5-5cd8c181-a1ee08ab-d7c0768c.jpg,No acute cardiopulmonary radiographic abnormality.,0.20434999999999998,147.4502,0.71069
+/raid/s2198939/MIMIC_Dataset/physionet.org/files/mimic-cxr-jpg/2.0.0/files/p12/p12343156/s50071773/2bda2caa-0940ea81-f70429a1-8eff686e-4f34f053.jpg,"In comparison with the study of ___, there is little change and no
+ evidence of acute pneumonia, vascular congestion, or pleural effusion.",0.011579999999999998,143.97319999999996,0.69479
